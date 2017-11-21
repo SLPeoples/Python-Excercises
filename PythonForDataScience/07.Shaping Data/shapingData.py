@@ -8,8 +8,6 @@ from sklearn.datasets import fetch_20newsgroups
 import networkx as nx
 import matplotlib.pyplot as plt
 
-
-
 #import nltk
 #if you get an nltk error, just download it!
 #nltk.download()
@@ -147,6 +145,7 @@ def graphing():
     G.add_edge(1,5)
     nx.draw_networkx(G)
     plt.show()
+    #notice the dense matrix shows a new value of 1 at [1,5] and [5,1]
     print()
     A = nx.adjacency_matrix(G)
     print(A.todense())
