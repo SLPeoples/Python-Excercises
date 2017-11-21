@@ -2,6 +2,7 @@
 from lxml import objectify
 import pandas as pd
 import numpy as np
+import datetime as dt
 
 #reads and manipulates xml file
 def pandasStuff():
@@ -67,12 +68,19 @@ def combineLev():
     
 #dates
 def dateStuff():
+    now = dt.datetime.now()
+    timevalue = now + dt.timedelta(hours=2)
+    print (str(now))
+    print (now.strftime('%a, %d %B %Y'))
+    print (timevalue.strftime('%H:%M:%S'))
+    print (timevalue - now)
     
 def main():
     #pandasStuff()
     #dataMap()
     #catVar()
     #renLev()
-    combineLev()
+    #combineLev()
+    dateStuff()
     
 if __name__ == "__main__": main()
