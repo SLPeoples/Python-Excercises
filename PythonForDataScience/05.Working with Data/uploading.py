@@ -75,6 +75,6 @@ def main():
     #randomSample()
     #randomSample()
     #pandaStuff()
-    #skimageStuff()
+    skimageStuff()
 
 if __name__ == "__main__": main()

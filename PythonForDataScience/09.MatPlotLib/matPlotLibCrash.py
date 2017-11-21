@@ -13,7 +13,7 @@ def graph():
     ax.set_yticks([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
     #labeling
     plt.xlabel('Entries')
-    plt.ylabel('Values')
+    plt.ylabel('Values') 
     #annotation
     plt.annotate(xy=[1,1], s='First Entry')
     #add some gridding!
