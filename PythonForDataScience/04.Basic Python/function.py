@@ -1,3 +1,5 @@
+#Samuel L. Peoples
+
 #use of a default greeting and parameter
 def SayHello(Greeting = "Hello"):
     print(Greeting)
