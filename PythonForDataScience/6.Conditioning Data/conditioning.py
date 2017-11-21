@@ -54,11 +54,25 @@ def renLev():
     colors.cat.categories = ['Purple','Yellow','Black']
     data.cat.categories = colors.tolist()
     print(data)
+
+#combining levels
+def combineLev():
+    colors = pd.Series(['Blue','Red','Green'], dtype='category')
+    data = pd.Series(pd.Categorical(['Red','Green','Red','Blue','Green'],categories=colors.tolist()))
+    data.cat.categories = ['BlueRed','Red','Green']
+    print (data.ix[data.isin(['Red'])])
+    #combined both blue and red
+    data.ix[data.isin(['Red'])] = 'BlueRed'
+    print (data)
+    
+#dates
+def dateStuff():
     
 def main():
     #pandasStuff()
     #dataMap()
     #catVar()
-    renLev()
+    #renLev()
+    combineLev()
     
 if __name__ == "__main__": main()
