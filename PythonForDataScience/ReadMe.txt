@@ -1,4 +1,6 @@
 Python Exercises completed from Python for Data Science by John Paul Mueller and Luca Massaron.
+http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118844181.html
+
 Use of Anaconda, Canopy, pythonxy, and WinPython.
 Conducts a review of python covering
 	Numbers and logic
@@ -54,7 +56,7 @@ Visualizing 15
 
 Obtaining insights and data products 15
 
-Understanding Python’s Role in Data Science 16
+Understanding Pythonâ€™s Role in Data Science 16
 
 Considering the shifting profile of data scientists 16
 
@@ -68,11 +70,11 @@ Training a model 18
 
 Viewing a result 20
 
-Chapter 2: Introducing Python’s Capabilities and Wonders 21
+Chapter 2: Introducing Pythonâ€™s Capabilities and Wonders 21
 
 Why Python? 22
 
-Grasping Python’s core philosophy 23
+Grasping Pythonâ€™s core philosophy 23
 
 Discovering present and future development goals 23
 
@@ -210,7 +212,7 @@ Knowing when to use pandas 106
 
 Validating Your Data 107
 
-Figuring out what’s in your data 108
+Figuring out whatâ€™s in your data 108
 
 Removing duplicates 109
 
@@ -424,7 +426,7 @@ Obtaining online graphics and multimedia 212
 
 Part IV: Wrangling Data 215
 
-Chapter 12: Stretching Python’s Capabilities 217
+Chapter 12: Stretching Pythonâ€™s Capabilities 217
 
 Playing with Scikit ]learn 218
 
@@ -582,9 +584,9 @@ Applying logistic regression 308
 
 Considering when classes are more 309
 
-Making Things as Simple as Naïve Bayes 310
+Making Things as Simple as NaÃ¯ve Bayes 310
 
-Finding out that Naïve Bayes isn’t so naïve 312
+Finding out that NaÃ¯ve Bayes isnâ€™t so naÃ¯ve 312
 
 Predicting text classifications 313
 
