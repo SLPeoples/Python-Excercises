@@ -1,1 +1,0 @@
-Python Exercises and Programming

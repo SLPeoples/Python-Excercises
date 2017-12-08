@@ -1,0 +1,14 @@
+﻿Model 1: OLS, using observations 1-109
+Dependent variable: ABV
+
+             coefficient   std. error    t-ratio    p-value 
+  ----------------------------------------------------------
+  const      0.0378275     0.00405368     9.332    1.66e-015 ***
+  IBU        0.000453692   5.73730e-05    7.908    2.53e-012 ***
+
+Mean dependent var   0.069224   S.D. dependent var   0.010698
+Sum squared resid    0.007801   S.E. of regression   0.008539
+R-squared            0.368853   Adjusted R-squared   0.362954
+F(1, 107)            62.53259   P-value(F)           2.53e-12
+Log-likelihood       365.5283   Akaike criterion    −727.0566
+Schwarz criterion   −721.6739   Hannan-Quinn        −724.8738

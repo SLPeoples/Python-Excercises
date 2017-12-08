@@ -1,0 +1,110 @@
+Number,Beer,Brewery,City,State,Country,Latitude,Longitude,Style,ABV,IBU
+62,Jockamo IPA,Abita Brewing Co.,Abita Springs, Louisiana, USA,30.478526,-90.037576,American,0.065,52
+20,Chesebro IPA,Ladyface Ale Companie,Agoura Hills, California, USA,34.15334,-118.761676,Double,0.1,100
+70,Monumental IPA,Port City Brewing,Alexandria, Virginia, USA,38.804836,-77.046921,American,0.063,57
+34,Glacier India Pale Ale,Glacier Brewhouse,Anchorage, Alaska, USA,61.218056,-149.900278,American,0.063,
+87,Sockeye Red IPA,Midnight Sun Brewing Co.,Anchorage, Alaska, USA,61.218056,-149.900278,American,0.057,70
+48,Hopportunity Knocks,Caldera Brewing Company,Ashland, Oregon, USA,42.194576,-122.709477,American,0.068,
+101,Vortex IPA,Fort George Brewery,Astoria, Oregon, USA,46.187884,-123.831253,American,0.077,
+93,Terrapin Hopsecutioner,Terrapin Beer Company,Athens, Georgia, USA,33.951935,-83.357567,American,0.073,71
+35,Gold Digger IPA,Auburn Alehouse Brewery,Auburn, California, USA,38.896565,-121.07689,American,0.063,65
+26,Epic Armageddon,Epic Brewing Company,Auckland,,New Zealand,-36.84846,174.763332,,0.0666,
+107,Wytchmaker Rye IPA,Jester King Craft Brewery,Austin, Texas, USA,30.267153,-97.743061,American,0.073,
+42,Hellrazer,DuClaw Brewing Company,Bel Air, Maryland, USA,39.535941,-76.348293,American,0.075,85
+7,Apocalypse IPA,10 Barrel Brewing Co.,Bend, Oregon, USA,44.058173,-121.31531,American,0.065,65
+43,Hop Henge IPA,Deschutes Brewery,Bend, Oregon, USA,44.058173,-121.31531,Imperial,0.106,95
+80,Red Chair,Deschutes Brewery,Bend, Oregon, USA,44.058173,-121.31531,Northwest,0.062,60
+79,ReAle Extra,Birra Del Borgo,Borgorose, Rieti, Italy,42.192768,13.235852,American,0.062,
+40,Harpoon IPA,Harpoon Brewery,Boston, Massachusetts, USA,42.360082,-71.05888,English,0.059,42
+64,Latitude 48 IPA,Boston Beer Company,Boston, Massachusetts, USA,42.360082,-71.05888,American,0.06,60
+81,Rich & Dans Rye IPA,Harpoon Brewery,Boston, Massachusetts, USA,42.360082,-71.05888,Rye,0.069,70
+11,Avery India Pale Ale,Avery Brewing Company,Boulder, Colorado, USA,40.014986,-105.270546,American,0.065,69
+69,Mojo IPA,Boulder Beer,Boulder, Colorado, USA,40.014986,-105.270546,American,0.072,
+99,Twisted Pine Hoppy Boy,Twisted Pine Brewing Company,Boulder, Colorado, USA,40.014986,-105.270546,American,0.062,65
+23,Count Hopula Blood Red IPA,SanTan Brewing Company,Chandler, Arizona, USA,33.30616,-111.84125,Imperial,0.07,99
+51,HopShock IPA,SanTan Brewing Company,Chandler, Arizona, USA,33.30616,-111.84125,American,0.071,85
+72,Negro Nitron IPA,SanTan Brewing Company,Chandler, Arizona, USA,33.30616,-111.84125,Black,0.073,85
+6,Anti-Hero,Revolution Brewing Company,Chicago, Illinois, USA,41.878114,-87.629798,American,0.065,70
+36,Goose Island India Pale Ale,Goose Island Beer Co.,Chicago, Illinois, USA,41.878114,-87.629798,English,0.059,55
+19,Celebration Ale,Sierra Nevada Brewing Co.,Chico, California, USA,39.728494,-121.837478,American,0.068,65
+53,Hoptimum IPA,Sierra Nevada Brewing Co.,Chico, California, USA,39.728494,-121.837478,Imperial,0.104,100
+83,Ruthless Rye IPA,Sierra Nevada Brewing Co.,Chico, California, USA,39.728494,-121.837478,American,0.066,55
+94,Torpedo IPA,Sierra Nevada Brewing Co.,Chico, California, USA,39.728494,-121.837478,American,0.072,65
+21,Commodore Perry IPA,Great Lakes Brewing Co.,Cleveland, Ohio, USA,41.49932,-81.694361,American,0.075,70
+63,Lake Erie Monster,Great Lakes Brewing Co.,Cleveland, Ohio, USA,41.49932,-81.694361,Imperial,0.091,80
+22,Compass IPA,Bristol Brewing Company,Colorado Springs, Colorado, USA,38.833882,-104.821363,American,0.065,55
+32,Frogs Breath,Coronado Brewing Company,Coronado, California, USA,32.685885,-117.183089,American,0.065,70
+49,Hoppy Daze,Coronado Brewing Company,Coronado, California, USA,32.685885,-117.183089,Imperial,0.09,
+56,Idiot IPA,Coronado Brewing Company,Coronado, California, USA,32.685885,-117.183089,Imperial,0.085,90
+66,Lucky U IPA,Breckenridge Brewery,Denver, Colorado, USA,39.739236,-104.990251,American,0.062,68
+68,Modus Hoperandi,Ska Brewing Co.,Durango, Colorado, USA,37.27528,-107.880067,American,0.068,65
+41,Harvest Ale,Weyerbacher Brewing Co.,Easton, Pennslyvania, USA,40.688432,-75.220732,American,0.062,
+82,Ruination IPA,Stone Brewing Co.,Escondido, California, USA,33.119207,-117.086421,American,0.077,100
+88,Stone Cali-Belgique IPA,Stone Brewing Co.,Escondido, California, USA,33.119207,-117.086421,California,0.069,77
+89,Stone IPA,Stone Brewing Co.,Escondido, California, USA,33.119207,-117.086421,American,0.069,77
+28,Estes Park Renegade,Estes Park Brewery,Estes Park, Colorado, USA,40.377206,-105.521665,American,0.058,
+96,Total Domination IPA,Ninkasi Brewing Company,Eugene, Oregon, USA,44.052069,-123.086754,American,0.067,65
+12,Belgo IPA,New Belgium Brewing,Fort Collins, Colorado, USA,40.58526,-105.084423,Belgian,0.07,60
+78,Ranger India Pale Ale,New Belgium Brewing,Fort Collins, Colorado, USA,40.58526,-105.084423,American,0.065,70
+90,Stormcloud IPA,Rahr & Sons Brewing Company,Fort Worth, Texas, USA,32.755488,-97.330766,American,0.06,64
+77,Punk IPA,BrewDog,Fraserburgh, Scotland, UK,57.693352,-2.007631,American,0.06,45
+86,Snake Dog IPA,Flying Dog Brewery,Fredrick, Maryland, USA,39.414269,-77.410541,American,0.071,60
+106,Wildeman Farmhouse IPA,Flying Dog Brewery,Fredrick, Maryland, USA,39.414269,-77.410541,American,0.075,75
+14,Big Nose IPA,Swamp Head Brewery,Gainesville, Florida, USA,29.651634,-82.324826,American,0.073,50
+33,Fryes Leap India Pale Ale,Sebago Brewing Company,Gorham, Maine, USA,43.679531,-70.444225,American,0.06,55
+31,Flower Power India Pale Ale,Ithaca Beer Company,Ithaca, New York, USA,42.443961,-76.501881,American,0.075,
+4,Alaskan IPA,Alaskan Brewing Company,Juneau, Alaska, USA,58.301944,-134.419722,American,0.062,55
+24,Double-Wide IPA,Boulevard Brewing Co.,Kansas, Missouri, USA,39.099727,-94.578567,Double,0.085,71
+85,Single-Wide IPA,Boulevard Brewing Co.,Kansas, Missouri, USA,39.099727,-94.578567,American,0.057,57
+18,Castaway IPA,Kona Brewing Company,Kona, Hawaii, USA,19.639994,-155.996926,American,0.07,65
+65,Lucky Bucket IPA,Lucky Bucket Brewing Company,La Vista, Nebraska, USA,41.183888,-96.031127,American,0.063,65
+16,Big Swell IPA,Maui Brewing Co.,Lahaina, Hawaii, USA,20.878333,-156.6825,American,0.068,50
+44,Hop Hog India Pale Ale,Lancaster Brewing Company,Lancaster, Pennsylvania, USA,40.037875,-76.305514,American,0.079,55
+102,Warrior IPA,Left Hand Brewing Company,Longmont, Colorado, USA,40.167207,-105.101927,American,0.076,69
+27,Epic IPA,Mammoth Brewing Company,Mammoth Lakes, California, USA,37.648546,-118.972079,American,0.065,50
+74,Otter Creek Black IPA,Otter Creek Brewing,Middlebury, Vermont, USA,44.015337,-73.16734,Black,0.065,60
+1,90 Minute IPA,Dogfish Head Craft Brewery,Milton, Delaware, USA,38.777612,-75.309914,Imperial,0.09,90
+8,Aprihop,Dogfish Head Craft Brewery,Milton, Delaware, USA,38.777612,-75.309914,American,0.07,50
+15,Big Sky IPA,Big Sky Brewing Company,Missoula, Montana, USA,46.878718,-113.996586,American,0.062,65
+59,Indie Pale Ale,Cisco Brewers,Nantucket, Massachusetts, USA,41.28347,-70.099451,American,0.065,
+109,Yellow Snow IPA,Rogue Ales,Newport, Oregon, USA,44.636784,-124.05345,American,0.062,70
+58,India Point Ale,Coastal Extreme Brewing Co.,Newport, Rhode Island, USA,41.490102,-71.312829,American,0.065,75
+100,Union Jack IPA,Firestone Walker Brewing Company,Paso Robles, California, USA,35.636876,-120.654502,American,0.075,70
+52,Hoptical Illusion,Blue Point Brewing Company,Patchogue, New York, USA,40.765978,-73.019343,American,0.068,66
+67,Mayflower IPA,Mayflower Brewing Company,Plymouth, Massachusetts, USA,41.958446,-70.667262,American,0.07,69
+54,Hopworks IPA,Hopworks Urban Brewery,Portland, Oregon, USA,45.523062,-122.676482,American,0.066,75
+108,X-114 IPA,Widmer Brothers Brewing Company,Portland, Oregon, USA,45.523062,-122.676482,American,0.062,50
+84,Ryediculous IPA,Chameleon Brewing,Racine, Wisconsin, USA,42.726131,-87.782852,American,0.0573,
+38,Hangar 24 Columbus IPA,Hangar 24 Brewery,Redlands, California, USA,34.055569,-117.182538,American,0.07,77
+39,Hangar 24 Double IPA,Hangar 24 Brewery,Redlands, California, USA,34.055569,-117.182538,Double,0.09,118
+73,Northwest Passage,Flat Earth Brewing Company,Saint Paul, Minnesota, USA,44.953703,-93.089958,American,0.065,115
+46,Hop Notch IPA,Uinta Brewing Co.,Salt Lake City, Utah, USA,40.760779,-111.891047,American,0.073,82
+98,Trader Session IPA,Uinta Brewing Co.,Salt Lake City, Utah, USA,40.760779,-111.891047,American,0.04,42
+95,Torrey Pines IPA,Oggis Pizza & Brewing Co.,San Clemente, California, USA,33.427352,-117.6126,American,0.068,
+5,AleSmith IPA,AleSmith Brewing Company,San Diego, California, USA,32.715738,-117.161084,American,0.0725,
+37,Green Flash Imperial IPA,Green Flash Bewing Co.,San Diego, California, USA,32.715738,-117.161084,Imperial,0.094,101
+75,Palate Wrecker,Green Flash Bewing Co.,San Diego, California, USA,32.715738,-117.161084,Imperial,0.095,100
+97,Tower 10 IPA,Karl Strauss Brewing Company,San Diego, California, USA,32.715738,-117.161084,American,0.07,70
+103,West Coast IPA,Green Flash Bewing Co.,San Diego, California, USA,32.715738,-117.161084,American,0.073,95
+13,Big Daddy IPA,Speakeasy Ales & Lagers,San Francisco, CA, USA,37.774929,-122.419416,American,0.065,55
+25,Drakes IPA,Drakes Brewing Co.,San Leandro, California, USA,37.72493,-122.156077,American,0.07,65
+92,Tap It IPA,Tap It Brewing Company,San Luis Obispo, California, USA,35.282752,-120.659616,American,0.07,
+10,Avatar Jasmine IPA,Elysian Brewing Company,Seattle, Washington, USA,47.606209,-122.332071,American,0.063,45
+29,Evolutionary IPA,Two Beers Brewing Co.,Seattle, Washington, USA,47.606209,-122.332071,American,0.062,70
+57,Immortal IPA,Elysian Brewing Company,Seattle, Washington, USA,47.606209,-122.332071,Northwest,0.063,54
+2,Adnams American IPA,Sole Bay Brewery,Southwold, Suffolk, UK,52.325628,1.680181,American,0.048,
+3,Adnams Innovation,Sole Bay Brewery,Southwold, Suffolk, UK,52.325628,1.680181,American,0.067,
+47,Hop Valley IPA,Zion Canyon Brewing Company,Springdale, Utah, USA,37.188871,-112.998552,American,0.04,65
+76,Proper Job IPA,St. Austell Brewery,St. Austell, Cornwall, UK,50.340378,-4.783425,English,0.055,
+91,Summit India Pale Ale,Summit Brewing Company,St. Paul, Minnesota, USA,44.953703,-93.089958,American,0.064,65
+104,West Coast Style IPA,Valley Brewing Company,Stockton, California, USA,37.957702,-121.29078,American,0.078,75
+105,White Rajah,The Brew Kettle Taproom,Strongsville, Ohio, USA,41.314497,-81.83569,American,0.068,70
+55,Humidor IPA,Cigar City Brewing,Tampa, Florida, USA,27.950575,-82.457178,American,0.075,70
+60,Jai Alai Aged on White Oak,Cigar City Brewing,Tampa, Florida, USA,27.950575,-82.457178,American,0.075,70
+61,Jai Alai IPA - Peach,Cigar City Brewing,Tampa, Florida, USA,27.950575,-82.457178,American,0.075,70
+45,Hop Knot,Four Peaks Brewing Company,Tempe, Arizona, USA,33.42551,-111.940005,American,0.067,47
+17,Boneshaker IPA,Amsterdam Brewing Company,Toronto, Ontario, Canada,43.653226,-79.383184,American,0.071,65
+9,Atlas India Pale Ale,Marshall Brewing Company,Tulsa, Oklahoma, USA,36.153982,-95.992775,American,0.065,
+50,Hops Of Wrath,Dust Bowl Brewing Company,Turlock, California, USA,37.494657,-120.846594,American,0.066,50
+30,Fat Tug IPA,Driftwood Brewery,Victoria, British Columbia, Canada,48.428421,-123.365644,Northwest,0.07,80
+71,Mountain High IPA,Mount Shasta Brewing,Weed, California, USA,41.42265,-122.386127,,0.07,

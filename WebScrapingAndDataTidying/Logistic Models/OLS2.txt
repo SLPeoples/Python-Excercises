@@ -1,0 +1,56 @@
+﻿Test on Model 1:
+
+  Null hypothesis: the regression parameter is zero for Country
+  Test statistic: F(1, 55) = 0.0410941, p-value 0.840104
+  Omitting variables improved 3 of 3 information criteria.
+
+Function evaluations: 107
+Evaluations of gradient: 58
+
+Model 2: Ordered Logit, using observations 1-109 (n = 88)
+Missing or incomplete observations dropped: 21
+Dependent variable: IBU
+Standard errors based on Hessian
+
+              coefficient    std. error       z      p-value 
+  -----------------------------------------------------------
+  State        −0.00968670    0.0213836    −0.4530   0.6506  
+  Style         0.0390561     0.114068      0.3424   0.7321  
+  ABV         143.772        23.9125        6.012    1.83e-09 ***
+  Latitude     −0.00831785    0.0320312    −0.2597   0.7951  
+  Longitude    −0.0125361     0.00867724   −1.445    0.1485  
+
+  cut1          6.27344       2.58770       2.424    0.0153   **
+  cut2          7.18333       2.56425       2.801    0.0051   ***
+  cut3          7.47414       2.55962       2.920    0.0035   ***
+  cut4          8.44112       2.54971       3.311    0.0009   ***
+  cut5          8.54707       2.54957       3.352    0.0008   ***
+  cut6          8.64607       2.54951       3.391    0.0007   ***
+  cut7          9.22178       2.54756       3.620    0.0003   ***
+  cut8          9.36548       2.54800       3.676    0.0002   ***
+  cut9          9.70513       2.55268       3.802    0.0001   ***
+  cut10         9.76995       2.55410       3.825    0.0001   ***
+  cut11        10.6349        2.57223       4.135    3.56e-05 ***
+  cut12        10.6959        2.57322       4.157    3.23e-05 ***
+  cut13        10.7581        2.57441       4.179    2.93e-05 ***
+  cut14        10.9468        2.57828       4.246    2.18e-05 ***
+  cut15        11.9412        2.61159       4.572    4.82e-06 ***
+  cut16        12.1105        2.62050       4.621    3.81e-06 ***
+  cut17        12.4779        2.64008       4.726    2.29e-06 ***
+  cut18        12.8092        2.66370       4.809    1.52e-06 ***
+  cut19        13.0597        2.68318       4.867    1.13e-06 ***
+  cut20        13.1940        2.69238       4.900    9.56e-07 ***
+  cut21        13.7008        2.73925       5.002    5.68e-07 ***
+  cut22        14.1301        2.78763       5.069    4.00e-07 ***
+  cut23        14.5919        2.83596       5.145    2.67e-07 ***
+  cut24        14.8525        2.86211       5.189    2.11e-07 ***
+  cut25        16.1669        2.97828       5.428    5.69e-08 ***
+  cut26        16.6059        3.00662       5.523    3.33e-08 ***
+  cut27        17.3208        3.08800       5.609    2.03e-08 ***
+
+Mean dependent var   69.25000   S.D. dependent var   15.95558
+Log-likelihood      −230.5499   Akaike criterion     525.0997
+Schwarz criterion    604.3745   Hannan-Quinn         557.0376
+
+Number of cases 'correctly predicted' = 18 (20.5%)
+Likelihood ratio test: Chi-square(5) = 84.1322 [0.0000]
