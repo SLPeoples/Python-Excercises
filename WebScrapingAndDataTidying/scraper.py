@@ -29,7 +29,7 @@ def buildBeers(htmlList):
                 beers.append(entry)
         
     for row in beers:
-        print(row)
+        print(beers)
     #saves the dataframe to a csv, total of 109 data entries.    
     df = pd.DataFrame(beers)
     df.to_csv("beersRAW.csv", header ={"Number", "Beer", "Brewery","Location", "Style", "ABV", "IBU"})
