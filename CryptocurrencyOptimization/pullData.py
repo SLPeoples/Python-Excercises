@@ -1,6 +1,6 @@
 """
 Determines best portfolio allocation between BTC ETH ETC LTC DASH NEO ZEC, XMR 
-Uses sharpe ratio, finds low volatility with high returns.
+Uses sharpe ratio, finds low volatility with high returns. Designed to be ran Monthly
 Author: Samuel L. Peoples
 Version date: 20171208
 """
@@ -192,7 +192,7 @@ def plotResults(results):
             "ZEC: "+str(results[9][i]),
             "XMR: "+str(results[10][i])]
     plt.scatter(x = results[2], y = results[0], c=[str(point/255.) for point in heat])
-    plt.scatter(x = maxX, y = maxY, c = 0, s = 75, alpha = .2)
+    plt.scatter(x = maxX, y = maxY, c = 200, s = 75, alpha = .2)
     plt.title('30,000 Portfolios, Sharpe Ratio')
     plt.xlabel('Volatility')
     plt.ylabel('Returns')
