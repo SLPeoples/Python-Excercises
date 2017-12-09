@@ -200,6 +200,19 @@ def plotResults(results):
     print()
     for line in recommendedPortfolio:
         print(line)
+    scatter = []
+    for i in range(30000):
+        scatter.append([str(results[2][i]), 
+                           str(results[0][i]),
+                           "BTC: "+str(results[3][i]),
+                            "ETH: "+str(results[4][i]),
+                            "ETC: "+str(results[5][i]),
+                            "LTC: "+str(results[6][i]),
+                            "DASH: "+str(results[7][i]),
+                            "NEO: "+str(results[8][i]),
+                            "ZEC: "+str(results[9][i]),
+                            "XMR: "+str(results[10][i])])
+    pd.DataFrame(scatter).to_csv("scatterPoints.csv")
     pd.DataFrame(recommendedPortfolio).to_csv("recommendedPortfolio.csv")
     plt.show()
     
