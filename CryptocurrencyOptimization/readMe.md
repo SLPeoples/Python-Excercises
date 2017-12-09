@@ -17,3 +17,9 @@ Recommended Portfolio Distribution:
 * NEO: 0.00899067394936
 * ZEC: 0.440076632458
 * XMR: 0.00273216430553
+
+
+
+based on John Geenty's article:
+
+https://medium.com/@geenty/optimizing-your-cryptocurrency-portfolio-with-python-4c3d4c824a7f
