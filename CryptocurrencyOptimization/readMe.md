@@ -2,6 +2,10 @@ pullData.py
 
 Samuel L. Peoples
 
+Interactive graph can be found here:
+
+https://public.tableau.com/profile/samuel.l.peoples#!/vizhome/CryptocurrencyOptimization/30000PortfoliosBTCETCETHDASHLTCZECXMR
+
 This script determines a low volatility, high returns portfolio between BTC, ETH, ETC, LTC, DASH, NEO, ZEC, XMR
 
 Uses sharpe ratios and data from the last year, saves files to a timestamped folder, and creates png figure for reference.
