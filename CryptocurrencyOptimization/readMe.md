@@ -1,6 +1,8 @@
-#pullData.py
-#Samuel L. Peoples
-#This script determines a low volatility, high returns portfolio between 
+pullData.py
+
+Samuel L. Peoples
+
+This script determines a low volatility, high returns portfolio between 
 * BTC
 * ETH
 * ETC
