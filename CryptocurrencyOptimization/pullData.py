@@ -1,5 +1,5 @@
 """
-Determines best portfolio allocation between BTC ETH ETC LTC DASH NEO ZEC, XMR 
+Determines best portfolio allocation between BTC ETH ETC LTC DASH NEO ZEC XMR 
 Uses sharpe ratio, finds low volatility with high returns. Designed to be ran Monthly
 Author: Samuel L. Peoples
 Version date: 20171208
@@ -182,7 +182,7 @@ def plotResults(results):
             maxX = results[2][i]
             maxY = results[0][i]
             recommendedPortfolio = [
-            "Recommended Portfolio Distribution",
+            "Recommended Portfolio Distribution:",
             "BTC: "+str(results[3][i]),
             "ETH: "+str(results[4][i]),
             "ETC: "+str(results[5][i]),
