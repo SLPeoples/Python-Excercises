@@ -2,15 +2,7 @@ pullData.py
 
 Samuel L. Peoples
 
-This script determines a low volatility, high returns portfolio between 
-* BTC
-* ETH
-* ETC
-* LTC
-* DASH
-* NEO
-* ZEC
-* XMR
+This script determines a low volatility, high returns portfolio between BTC, ETH, ETC, LTC, DASH, NEO, ZEC, XMR
 
 Uses sharpe ratios and data from the last year, saves files to a timestamped folder, and creates png figure for reference.
 
