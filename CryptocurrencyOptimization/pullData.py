@@ -135,8 +135,8 @@ def optimize(masterList, returns):
     for i in range(port):
         weights = np.array(np.random.random(8))
         weights /= np.sum(weights)
-        port_return = np.sum(mean_returns*weights)*380
-        port_stdv = np.sqrt(np.dot(weights.T,np.dot(matCov, weights)))*np.sqrt(380)
+        port_return = np.sum(mean_returns*weights)*10
+        port_stdv = np.sqrt(np.dot(weights.T,np.dot(matCov, weights)))*np.sqrt(10)
         #Returns based on this portfolio
         results[0,i] = port_return
         #standard deviation based on this portfolio
