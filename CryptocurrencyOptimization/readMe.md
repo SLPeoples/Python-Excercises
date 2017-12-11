@@ -6,11 +6,15 @@ Interactive graphs can be found here:
 
 https://public.tableau.com/profile/samuel.l.peoples#!/vizhome/CryptocurrencyOptimization/BacktestingAggressive1000Start
 
+>The views contained in this post are my own and do not represent investment advise, the views of my employer or anyone else. This content is intended to be used and must be used for informational purposes only. It is very important to do your own analysis before making any investment based on your own personal circumstances. You should take independent financial advice from a professional in connection with, or independently research and verify, any information that you find in this post and wish to rely upon, whether for the purpose of making an investment decision or otherwise.
+
 This script determines a low volatility, high returns portfolio between BTC, ETH, ETC, LTC, DASH, NEO, ZEC, XMR
 
 Uses sharpe ratios and data from the last three months, saves files to a timestamped folder, and creates png figure for reference.
 
-The information was then used to backtest the recommended model, as well as an aggressive model from the results. Given a $1000.00 investment, the recommended portfolio would have grown to over $2100.00 during the three-month period, while the aggressive grows to over $3000.00 in value. Because of digital currencies being inherently volatile, the Sharpe ratios are less reliable than one would desire, but is a good metric for portfolio analysis in this case.
+The information was then used to backtest the recommended model, as well as an aggressive model from the results. Given an initial investment of $1000.00 on 19 September 2017, the recommended portfolio would have grown to over $2100.00 during the three-month period, while the aggressive grows to over $3000.00 in value. Because of digital currencies being inherently volatile, the Sharpe ratios are less reliable than one would desire, but is a good metric for portfolio analysis in this case.
+
+A safe conclusion to draw, regardless of discrete investment is that LTC and NEO are two low volatility, yet moderate-to-high returns currencies which should be monitored, while BTC and DASH are two highly variable currencies that have grown quickly in value over the last three months. Coupled with any other insights that can be drawn from the market, I think this was a very exciting exercise.
 
 2017-12-10 run:
 
