@@ -12,7 +12,6 @@ import numpy as np
 import datetime
 import re
 import os
-from astropy.utils.compat.futures._base import RUNNING
 
 
 """
