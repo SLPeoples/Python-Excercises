@@ -1,3 +1,12 @@
+from urllib.request import urlopen
+import matplotlib.pyplot as plt
+from bs4 import BeautifulSoup
+import pandas as pd
+import numpy as np
+import datetime
+import re
+import os
+
 def optimize(returns):
     mean_returns = returns.mean()
     matCov = returns.cov()
