@@ -14,7 +14,7 @@ The information was then used to backtest the recommended model, as well as an a
 
 2017-12-10 run:
 
-https://i.imgur.com/kNTkH6L.png
+https://i.imgur.com/TdUEAkS.png
 
 Recommended Portfolio Distribution (scatterPoints.csv [34607]):
 * BTC: 0.0180410176875
