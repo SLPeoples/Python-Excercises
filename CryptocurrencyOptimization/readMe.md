@@ -48,7 +48,29 @@ Returns:
 
 https://i.imgur.com/KMUYA6P.png
 
+_____
 
+The way it's written, it calls eight API locations, then develops their historical data individually, merges the datasets, 
+then calculates and populates a returns array which has information for each date, as well as a consistent source for returns 
+information, since it can vary from exchange to exchange. From there it creates fifty thousand randomized arrays of varying 
+distribution, and finds the appropriate points, as well saving the data. 
+
+If you have a similar dataset that you'd personally want to test, then you could just copy optimizePlot.py, with an input dataset 
+that looks like this:
+
+* https://i.imgur.com/D2CSV8g.png 
+
+You then get these two:
+
+* https://i.imgur.com/2rx5Ask.png 
+
+as part of your output, which you can use to plot the points in another program (such as tableau) and navigate the dataset, 
+such as here:
+
+* https://i.imgur.com/cU8PrOa.png 
+
+where I've chosen to focus on a portfolio that was not recommended, but could be chosen for its high returns, depending on a person's 
+risk tolerance. 
 
 based on John Geenty's article:
 
