@@ -72,6 +72,8 @@ such as here:
 where I've chosen to focus on a portfolio that was not recommended, but could be chosen for its high returns, depending on a person's 
 risk tolerance. 
 
+_____
+
 based on John Geenty's article:
 
 https://medium.com/@geenty/optimizing-your-cryptocurrency-portfolio-with-python-4c3d4c824a7f
