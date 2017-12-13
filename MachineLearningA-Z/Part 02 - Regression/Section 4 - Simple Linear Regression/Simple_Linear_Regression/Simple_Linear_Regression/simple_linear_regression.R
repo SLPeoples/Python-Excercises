@@ -23,6 +23,7 @@ regressor = lm(formula = Salary ~ YearsExperience,
 y_pred = predict(regressor, newdata = test_set)
 
 # Visualising the Training set results
+#install.packages('ggplot2',dep=TRUE)
 library(ggplot2)
 ggplot() +
   geom_point(aes(x = training_set$YearsExperience, y = training_set$Salary),
