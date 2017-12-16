@@ -65,3 +65,4 @@ lin_reg.predict(6.5)
 # Predicting a new result with Polynomial Regression
 lin_reg_2.predict(poly_reg.fit_transform(6.5))
     #Said he made 160k, and model predicts 159k. He isn't lying!
+print("Employee noted earning 160k. He is predicted to have earned " +str(lin_reg_2.predict(poly_reg.fit_transform(6.5))))
