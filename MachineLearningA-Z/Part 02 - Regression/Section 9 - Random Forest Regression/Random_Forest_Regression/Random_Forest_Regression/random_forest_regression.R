@@ -39,3 +39,6 @@ ggplot() +
   ggtitle('Truth or Bluff (Random Forest Regression)') +
   xlab('Level') +
   ylab('Salary')
+
+plot(regressor)
+text(regressor)
