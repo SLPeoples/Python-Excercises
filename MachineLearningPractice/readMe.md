@@ -1,6 +1,6 @@
 # Introduction
 
-In this series of exercises, I will locate an open source dataset and implement a series of machine learning exercises in Python. Within each section I will describe the method chosen, the testing process, and results/ ingsights, as well as explain the intuition and decision making at each step.
+In this series of exercises, I will locate an open source dataset and implement a various machine learning methods in Python. Within each section I will describe the method chosen, the testing process, and results/ insights, as well as explain the intuition and decision making at each step.
 
 # Regression
 
