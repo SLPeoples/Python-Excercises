@@ -9,14 +9,6 @@ In this series of exercises, I will locate an open source dataset and implement 
 * 21613 observations of homes sold between May 2014 and May 2015.
 * Source: https://www.kaggle.com/harlfoxem/housesalesprediction
 
-2. Human Resources.
-
-* Artificially developed dataset of HR information.
-* Is there any relationship between who a person works for and their performance score?
-* What is the overall diversity profile of the organization?
-* What are our best recruiting sources if we want to ensure a diverse organization?
-* Source: https://www.kaggle.com/rhuebner/human-resources-data-set
-
 # Classification
 
 1. Mushrooms: Safe to eat, or deadly poison?
