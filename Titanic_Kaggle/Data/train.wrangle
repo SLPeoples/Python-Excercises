@@ -1,0 +1,25 @@
+settype col: Sex type: 'Bool'
+settype col: Sex type: 'String'
+replace col: Sex with: '1' on: 'male'
+replace col: Sex with: '0' on: 'fe1'
+rename col: Sex to: 'Sex_F0_M1'
+set col: Age value: ifmissing($col, average($col))
+settype col: Age type: 'Integer'
+set col: Age value: ifmismatched($col, ['Integer'], round($col))
+drop col: Ticket
+drop col: Name
+drop col: Cabin
+replace col: Embarked with: '0' on: 'C' global: true
+rename col: Embarked to: 'Embarked_C0_N1_Q2_S3'
+replace col: Embarked_C0_N1_Q2_S3 with: '1' on: 'N' global: true
+replace col: Embarked_C0_N1_Q2_S3 with: '2' on: 'Q' global: true
+replace col: Embarked_C0_N1_Q2_S3 with: '3' on: 'S' global: true
+valuestocols col: Embarked_C0_N1_Q2_S3 value: 1 default: 0 limit: 3
+rename col: column_0 to: 'Embarked_C'
+rename col: column_2 to: 'Embarked_Q'
+rename col: column_3 to: 'Embarked_S'
+drop col: Embarked_C0_N1_Q2_S3
+valuestocols col: Pclass value: 1 default: 0 limit: 2
+rename col: column_1 to: 'First_Class'
+rename col: column_3 to: 'Third_Class'
+drop col: Pclass
