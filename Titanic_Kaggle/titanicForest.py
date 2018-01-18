@@ -37,3 +37,28 @@ print("Accuracy: "+str((241+114)/(241+114+38+25)))
  [ 38 114]]
 Accuracy: 84.93%
 """
+
+# DNN
+from keras.models import Sequential
+from keras.layers import Dense
+
+# Define model and layers
+model = Sequential()
+model.add(Dense(12, input_dim=10, activation='relu'))
+model.add(Dense(10, activation='sigmoid'))
+model.add(Dense(10, activation='relu'))
+model.add(Dense(10, activation='softmax'))
+model.add(Dense(1, activation='sigmoid'))
+model.compile(loss='binary_crossentropy',
+optimizer='adam', metrics=['accuracy'])
+
+# Fit the model to the training dataset
+model.fit(X_train, y_train, epochs=20, batch_size=25)
+
+# Evaluate the model
+scores = model.evaluate(X_test, y_test)
+print("\n%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
+"""
+acc: 90.19%
+"""
+
