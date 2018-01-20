@@ -1,0 +1,55 @@
+Test on Model 42:
+
+  Null hypothesis: the regression parameter is zero for Street
+  Test statistic: F(1, 1084) = 2.50842, p-value 0.113531
+  Omitting variables improved 2 of 3 information criteria.
+
+Model 43: OLS, using observations 1-2919 (n = 1121)
+Missing or incomplete observations dropped: 1798
+Dependent variable: SalePrice
+
+                   coefficient      std. error    t-ratio   p-value 
+  ------------------------------------------------------------------
+  const              -1.10362e+06  149761          -7.369  3.40e-013 ***
+  LotArea             0.592878          0.135315    4.381  1.29e-05  ***
+  LandContour      3877.55           1546.29        2.508  0.0123    **
+  Neighborhood     -421.888           181.210      -2.328  0.0201    **
+  Condition2     -17902.7            3145.41       -5.692  1.62e-08  ***
+  BldgType        -5186.00           1111.96       -4.664  3.49e-06  ***
+  OverallQual     14819.0            1297.08       11.42   1.26e-028 ***
+  OverallCond      7324.78           1184.09        6.186  8.73e-010 ***
+  YearBuilt         455.198            63.7707      7.138  1.73e-012 ***
+  YearRemodAdd      166.734            74.7745      2.230  0.0260    **
+  RoofMatl        -8506.66           2111.47       -4.029  6.00e-05  ***
+  Exterior1st     -1223.32            618.531      -1.978  0.0482    **
+  Exterior2nd      1358.46            579.913       2.343  0.0193    **
+  MasVnrType       4820.55           1635.46        2.948  0.0033    ***
+  MasVnrArea         34.8596            6.45439     5.401  8.14e-08  ***
+  BsmtQual         7206.76           1275.88        5.648  2.07e-08  ***
+  BsmtExposure     1968.31            858.379       2.293  0.0220    **
+  BsmtFinSF1         31.2760            5.29496     5.907  4.66e-09  ***
+  BsmtFinSF2         23.1110            7.66197     3.016  0.0026    ***
+  BsmtUnfSF          21.0709            4.90096     4.299  1.87e-05  ***
+  stFlrSF            44.1423            6.53174     6.758  2.28e-011 ***
+  ndFlrSF            48.8726            4.45598    10.97   1.28e-026 ***
+  BsmtFullBath     8681.76           2645.93        3.281  0.0011    ***
+  FullBath         8561.95           2795.99        3.062  0.0023    ***
+  BedroomAbvGr    -9995.97           1875.20       -5.331  1.19e-07  ***
+  KitchenAbvGr   -27693.3            5813.82       -4.763  2.16e-06  ***
+  KitchenQual      9016.13           1617.15        5.575  3.12e-08  ***
+  TotRmsAbvGrd     4049.36           1302.69        3.108  0.0019    ***
+  Functional      -3452.17           1453.63       -2.375  0.0177    **
+  FireplaceQu      3676.17            999.958       3.676  0.0002    ***
+  GarageCars      12198.7            2115.91        5.765  1.06e-08  ***
+  WoodDeckSF         25.1416            8.61645     2.918  0.0036    ***
+  ScreenPorch        65.1359           17.1485      3.798  0.0002    ***
+  PoolArea          649.981            63.1279     10.30   8.74e-024 ***
+  PoolQC        -204453             16481.8       -12.40   3.86e-033 ***
+  SaleType         2636.82           1243.31        2.121  0.0342    **
+
+Mean dependent var   185506.2   S.D. dependent var   82999.16
+Sum squared resid    1.10e+12   S.E. of regression   31781.16
+R-squared            0.857962   Adjusted R-squared   0.853380
+F(35, 1085)          187.2518   P-value(F)           0.000000
+Log-likelihood      -13193.33   Akaike criterion     26458.65
+Schwarz criterion    26639.44   Hannan-Quinn         26526.98
